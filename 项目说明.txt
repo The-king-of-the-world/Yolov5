@@ -1,0 +1,4 @@
+1.该项目基于YOLOv5 v6.1版本进行改进，增加GUI界面，故项目主体结构为YOLOv5算法，仅增加部分GUI界面相关文件；
+2.main_ui.py为GUI检测界面脚本，环境配置好后，运行该脚本即可打开GUI界面；
+3.yolov5.ui文件为UI界面文件，可以使用qtdesigner打开.ui文件，即可修改页面布局、页面功能等，qtdesigner下载及配置问度娘；通过将yolov5.ui文件转换为yolov5.py文件，
+可以将界面文件转换为python文件
